@@ -48,7 +48,7 @@ Live Demo -
 
 🛠️ Installation & Setup
 1. Clone the repository
-git clone- 
+git clone- https://github.com/Ranjanas03/component-organizer.git
 
 2. setup backend
 cd backend
